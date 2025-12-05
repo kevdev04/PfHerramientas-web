@@ -1,0 +1,12 @@
+body{
+	background: #EEE;
+}
+
+.principal{
+	background: #FFF;
+	border: 1px solid #CCC;
+	margin: 10px auto;
+	padding: 10px;
+	border-radius: 15px;
+	box-shadow: 5px 5px #CCC;
+}
